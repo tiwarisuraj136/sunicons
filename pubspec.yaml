@@ -1,7 +1,7 @@
 name: sunicons
 description: "A new Flutter package project."
 version: 0.0.1
-homepage:
+homepage: https://github.com/tiwarisuraj136/sunicons.git
 
 environment:
   sdk: '>=3.2.3 <4.0.0'
