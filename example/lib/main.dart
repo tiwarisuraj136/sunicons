@@ -29,9 +29,13 @@ class MyApp extends StatelessWidget {
       debugShowCheckedModeBanner: false,
       title: "Sun Icons Example",
       home: Scaffold(
-        backgroundColor: const Color(0xFFF9F9F9),
+        backgroundColor: Colors.brown,
         appBar: AppBar(
-          title: const Text('Sun Icons'),
+          title: const Text('Sun Icons', style: TextStyle(
+            fontWeight: FontWeight.bold,
+          ),),
+
+          backgroundColor: Colors.red,
         ),
         body: GridView.builder(
           gridDelegate: const SliverGridDelegateWithFixedCrossAxisCount(
