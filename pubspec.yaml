@@ -26,6 +26,11 @@ flutter:
       - family: SunIcons
         fonts:
           - asset: fonts/surya.ttf
+      - family: EvaIcons
+        fonts:
+          - asset: fonts/Eva-Icons.ttf
+
+
 
   # To add assets to your package, add an assets section, like this:
   # assets:
