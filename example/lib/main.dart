@@ -1,4 +1,6 @@
+import 'package:example/demoicon.dart';
 import "package:flutter/material.dart";
+import 'package:sunicons/sunicons.dart';
 
 import './icons_list.dart';
 
@@ -49,6 +51,13 @@ class MyApp extends StatelessWidget {
             );
           },
           itemCount: iconDataList.length,
+        ),
+        floatingActionButton: FloatingActionButton(
+          onPressed: () {
+
+          },
+          backgroundColor: Colors.yellow,
+          child: const Icon(SunIcons.sun),
         ),
       ),
     );
