@@ -1,7 +1,7 @@
 name: sunicons
-description: "New Sun Brand Icons"
+description: "A new Flutter package project."
 version: 0.0.1
-homepage:
+homepage: https://github.com/tiwarisuraj136/sunicons.git
 
 environment:
   sdk: '>=3.2.3 <4.0.0'
@@ -25,10 +25,10 @@ flutter:
   fonts:
       - family: SunIcons
         fonts:
-          - asset: fonts/brands.ttf
-#      - family: EvaIcons
-#        fonts:
-#          - asset: fonts/Eva-brands.ttf
+          - asset: fonts/surya.ttf
+      - family: EvaIcons
+        fonts:
+          - asset: fonts/Eva-Icons.ttf
 
 
 
