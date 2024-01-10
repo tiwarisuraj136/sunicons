@@ -1,5 +1,5 @@
 import "package:flutter/material.dart";
-import 'package:sunicons/sunicons.dart';
+import 'package:sunbrandicons/sunbrandicons.dart';
 
 import './icons_list.dart';
 
@@ -56,7 +56,7 @@ class MyApp extends StatelessWidget {
 
           },
           backgroundColor: Colors.yellow,
-          child: const Icon(SunIcons.apple),
+          child: const Icon(SunBrandIcons.apple),
           // child: const Icon(EvaIcons.micOutline),
         ),
       ),
