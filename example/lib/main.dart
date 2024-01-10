@@ -56,7 +56,7 @@ class MyApp extends StatelessWidget {
 
           },
           backgroundColor: Colors.yellow,
-          child: const Icon(SunIcons.apple),
+          child: const Icon(SunBrandIcons.apple),
           // child: const Icon(EvaIcons.micOutline),
         ),
       ),

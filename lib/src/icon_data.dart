@@ -2,8 +2,8 @@ library sunicons;
 
 import "package:flutter/widgets.dart";
 
-class SunIconData extends IconData {
-  const SunIconData(int suryaPoint)
+class SunBrandIconData extends IconData {
+  const SunBrandIconData(int suryaPoint)
       : super(
           suryaPoint,
           fontFamily: "SunIcons",
