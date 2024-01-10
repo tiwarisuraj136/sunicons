@@ -28,11 +28,11 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      title: "Sun Icons Example",
+      title: "Sun Brand Icons Example",
       home: Scaffold(
         backgroundColor: Colors.brown,
         appBar: AppBar(
-          title: const Text('Sun Icons', style: TextStyle(
+          title: const Text('SunBrand Icons', style: TextStyle(
             fontWeight: FontWeight.bold,
           ),),
 
@@ -56,7 +56,7 @@ class MyApp extends StatelessWidget {
 
           },
           backgroundColor: Colors.yellow,
-          child: const Icon(SunIcons.micOutline),
+          child: const Icon(SunIcons.apple),
           // child: const Icon(EvaIcons.micOutline),
         ),
       ),
