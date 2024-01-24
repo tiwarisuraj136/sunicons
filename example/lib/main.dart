@@ -35,8 +35,7 @@ class MyApp extends StatelessWidget {
           title: const Text('SunBrand Icons', style: TextStyle(
             fontWeight: FontWeight.bold,
           ),),
-
-          backgroundColor: Colors.red,
+          backgroundColor: Colors.tealAccent,
         ),
         body: GridView.builder(
           gridDelegate: const SliverGridDelegateWithFixedCrossAxisCount(
