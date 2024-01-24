@@ -97,11 +97,5 @@ class MyApp extends StatelessWidget {
 
 
 ## Screenshot
-
-
-<tr>
-<td>
-<img src="https://github.com/tiwarisuraj136/sunicons/blob/sunbrandicons/screenshot/sunbrandicons.jpg" />
-</td>
-</tr>
+![](screenshot/sunbrandicons.jpg)
 
