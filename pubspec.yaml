@@ -1,7 +1,7 @@
 name: sunicons
 description: "New Sun Brand Icons"
-version: 0.0.1
-homepage:
+version: 0.0.2
+repository: https://github.com/tiwarisuraj136/sunicons/tree/sunbrandicons.git
 
 environment:
   sdk: '>=3.2.3 <4.0.0'
@@ -15,7 +15,6 @@ dependencies:
 dev_dependencies:
   flutter_test:
     sdk: flutter
-#  recase: ^4.0.0-nullsafety.0
 
 # For information on the generic Dart part of this file, see the
 # following page: https://dart.dev/tools/pub/pubspec
@@ -25,10 +24,8 @@ flutter:
   fonts:
       - family: SunIcons
         fonts:
-          - asset: fonts/brands.ttf
-#      - family: EvaIcons
-#        fonts:
-#          - asset: fonts/Eva-brands.ttf
+          - asset: fonts/sunbrands.ttf
+#
 
 
 
